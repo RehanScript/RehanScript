@@ -38,4 +38,4 @@ I work with the modern JavaScript ecosystem, specifically:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rehanscript&theme=radical&no-frame=true&no-bg=true)
 
 ### 🛠️ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehanscript&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rehanscript&layout=compact&theme=radical)
