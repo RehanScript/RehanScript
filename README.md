@@ -32,10 +32,10 @@ I work with the modern JavaScript ecosystem, specifically:
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=rehanscript&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rehanscript&theme=radical)
 
 ### 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=rehanscript&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rehanscript&theme=radical&no-frame=true&no-bg=true)
 
 ### 🛠️ Top Languages
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rehanscript&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehanscript&layout=compact&theme=radical)
