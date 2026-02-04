@@ -31,3 +31,23 @@ I work with the modern JavaScript ecosystem, specifically:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+### 📊 Weekly Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=rehanscript&theme=tokyonight&hide_border=true)
+
+### 📈 Activity & Proficiency
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rehanscript&show_icons=true&theme=tokyonight&hide_border=true" alt="Rehan's Stats" width="45%" />
+</p>
+
+### 📖 Language Stats
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rehanscript&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehanscript/rehanscript/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehanscript/rehanscript/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rehanscript/rehanscript/output/github-snake-dark.svg">
+</picture>
