@@ -29,13 +29,5 @@ I work with the modern JavaScript ecosystem, specifically:
 **DevOps & Architecture:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ---
-
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rehanscript&theme=radical)
-
-### 🏆 Trophies
-![Trophies Mirror](https://github-profile-trophy-fork-two.vercel.app/?username=rehanscript&theme=radical&no-frame=true&no-bg=true)
-
-### 🛠️ Top Languages
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rehanscript&layout=compact&theme=radical)
